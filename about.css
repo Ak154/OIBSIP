@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #adebad;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    letter-spacing: 2px;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 25%;
+    width: 50%;
+}
